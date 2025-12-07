@@ -17,14 +17,28 @@
             <!-- Experience 1 -->
             <div class="mb-10 experience-item" ref="expItem1">
               <div class="flex justify-between items-start mb-4">
-                <h3 class="text-xl font-semibold text-[#030303]">Co-founder at Orbityr</h3>
-                <span class="text-sm text-[#030303] font-light">Jun 2025 - Present</span>
+                <h3 class="text-xl font-semibold text-[#030303]">Northrop Grumman | Electrical Engineer</h3>
+                <span class="text-sm text-[#030303] font-light">Woodland Hills, CA | Aug 2025 - Present</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Building an AI-powered platform that helps businesses decide where to place their
-                assets! Currently in the HKSTP ideation program, working on our MVP.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                    <li>
+                      Designed and developed multiple connectors and adapters to ensure seamless system compatibility. 
+                      Performed power output testing, noise analysis, and detailed documentation using oscilloscopes, 
+                      DMMs, and technical datasheets
+                    </li>
+
+                    <li>
+                      Developed and implemented a Python GUI-based executable script to convert .xls files into .csv 
+                      format, enabling data integration and improving compatibility across systems
+                    </li>
+
+                    <li>
+                      Reduced processing time by 30% through the development and implementation of a C++ computer vision 
+                      multithreading solution, using OpenCV and Windows threading
+                    </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -35,14 +49,27 @@
             <div class="mb-10 experience-item" ref="expItem1">
               <div class="flex justify-between items-start mb-4">
                 <h3 class="text-xl font-semibold text-[#030303]">
-                  Gen AI Software Developer at Career Hackers
+                  Northrop Grumman | Electronics Engineer
                 </h3>
-                <span class="text-sm text-[#030303] font-light">Jun 2025 - Aug 2025</span>
+                <span class="text-sm text-[#030303] font-light">Baltimore, MD | Aug 2024 - Aug 2025 </span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Designing and developing features for an AI interview platform.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Technical lead in the lab environment, coordinating test activities, delegating tasks, and ensuring 
+                        engineering processes are followed across multiple high-visibility programs.
+                      </li>
+
+                      <li>
+                        Executed ATP testing using oscilloscopes, DMMs, and programmable power supplies, identifying faults 
+                        and validating system performance against specifications.
+                      </li>
+
+                      <li>
+                        Collaborated with multidisciplinary teams to meet product schedules and deliverables.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -52,14 +79,27 @@
             <!-- Experience 3 -->
             <div class="mb-10 experience-item" ref="expItem1">
               <div class="flex justify-between items-start mb-4">
-                <h3 class="text-xl font-semibold text-[#030303]">QA Automation Intern at GoGoX</h3>
-                <span class="text-sm text-[#030303] font-light">Sep 2024 - Dec 2024</span>
+                <h3 class="text-xl font-semibold text-[#030303]">Smart Program VR Tech for Virtual Learning Space | Team Lead</h3>
+                <span class="text-sm text-[#030303] font-light"> Los Angeles, CA | Jan 2024 - Aug 2024</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Explored ways to optimise the testing process through means like parallel processing
-                and cloud-based virtual devices.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Led a team of 23 interns to create a cost-effective AR system integrating generative AI, Unity, and 
+                        LucidVR gloves.
+                      </li>
+
+                      <li>
+                        Developed hardware measurement tools and trained interns to design and validate components used 
+                        within the ESP32-driven AR system.
+                      </li>
+
+                      <li>
+                        Utilized Docker containers to host the Meta Llama 3 70B model, where input from an ESP32 board was 
+                        used to detect user interactions, enhancing LLM assistance in an AR environment.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -70,14 +110,26 @@
             <div class="mb-10 experience-item" ref="expItem2">
               <div class="flex justify-between items-start mb-4">
                 <h3 class="text-xl font-semibold text-[#030303]">
-                  Quality Assurance Intern at GoGoX
+                  NSF CREST Center for Advancement toward Sustainable Urban System | Fellow Research
                 </h3>
-                <span class="text-sm text-[#030303] font-light">Jun 2024 - Aug 2024</span>
+                <span class="text-sm text-[#030303] font-light">Los Angeles, CA | Oct 2023 - Aug 2024</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Automated the sanity and regression test suite of the client app.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Developed a BLE-based system to track occupancy patterns, improving energy efficiency by 20%.
+                      </li>
+
+                      <li>
+                        Taught foundational concepts of Zephyr RTOS and BLE to over 50 students using the nRF52DK.
+                      </li>
+
+                      <li>
+                        Educated students on how modern IoT systems learn host behavior—using examples such as smart 
+                        appliances and sensors—to design solutions tailored for elderly and accessibility-focused use cases.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -88,15 +140,25 @@
             <div class="mb-10 experience-item" ref="expItem3">
               <div class="flex justify-between items-start mb-4">
                 <h3 class="text-xl font-semibold text-[#030303]">
-                  UI/UX Designer at PolyU Smart Cities Research Institute
+                  Dept. of Electrical and Computer Engineering, CSULA | Teacher Associate
                 </h3>
-                <span class="text-sm text-[#030303] font-light">Feb 2024 - May 2024</span>
+                <span class="text-sm text-[#030303] font-light">Los Angeles, CA | Aug 2022 - Aug 2024</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Designed and developed user interfaces for the software QC Spatial-3Dx, focusing on
-                accessibility and user experience.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Introduced students to the fundamentals of embedded systems using the Nucleo F401RE development board,
+                        covering microcontroller architecture, GPIO programming, and sensor interfacing through practical
+                        hands-on exercises.
+                      </li>
+
+                      <li>
+                        Guided students in analyzing linear and rotational systems to determine their dynamic characteristics,
+                        and taught techniques for calculating and tuning proportional, integral, and derivative gains for
+                        optimal system performance.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -107,15 +169,29 @@
             <div class="mb-10 experience-item" ref="expItem4">
               <div class="flex justify-between items-start mb-4">
                 <h3 class="text-xl font-semibold text-[#030303]">
-                  Web Developer Intern at Oxbridge Economics
+                  Dept. of Electrical and Computer Engineering, CSULA | Makerspace Assistant
                 </h3>
-                <span class="text-sm text-[#030303] font-light">Jun 2023 - Aug 2023</span>
+                <span class="text-sm text-[#030303] font-light">Los Angeles, CA | Aug 2021 - Aug 2024</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Developed and maintained web applications, focusing on user experience and
-                performance optimization.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Designed and led a workshop on computer vision, focusing on object detection and tracking techniques 
+                        using OpenCV and implementing algorithms such as YOLO.
+                      </li>
+
+                      <li>
+                        Created a workshop for transfer students on PCB design, guiding participants through building a circuit 
+                        using a 555 timer to blink an LED and demonstrating the end-to-end PCB creation process.
+                      </li>
+
+                      <li>
+                        Developed and delivered a series of foundational workshops covering Vim navigation, Miniforge installation, 
+                        virtual machine setup, and Linux fundamentals, with fully documented materials published for continued 
+                        student use.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -125,14 +201,21 @@
             <!-- Experience 7 -->
             <div class="mb-10 experience-item" ref="expItem5">
               <div class="flex justify-between items-start mb-4">
-                <h3 class="text-xl font-semibold text-[#030303]">Student Assistant at CLP</h3>
-                <span class="text-sm text-[#030303] font-light">Feb 2023 - Apr 2023</span>
+                <h3 class="text-xl font-semibold text-[#030303]">Office of Special Service Math Tutor | Math Tutor</h3>
+                <span class="text-sm text-[#030303] font-light">Los Angeles, CA | Sep 2020 - Aug 2022</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Assisted in testing and quality assurance efforts for the CLP Generator Inspection
-                Robot.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Developed and implemented strategies to meet student needs using appropriate instructional methods 
+                        and learning delivery in the least restrictive environment.
+                      </li>
+
+                      <li>
+                        Differentiated activities and goals to meet each student's individual needs and ability.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -143,14 +226,28 @@
             <div class="mb-10 experience-item" ref="expItem6">
               <div class="flex justify-between items-start mb-4">
                 <h3 class="text-xl font-semibold text-[#030303]">
-                  Digital Media Creator at AInspire
+                  NSF Southeastern Coalition for Engagement and Exchange in Nanotechnology Education | Undergraduate Fellow Research
                 </h3>
-                <span class="text-sm text-[#030303] font-light">Apr 2021 - May 2022</span>
+                <span class="text-sm text-[#030303] font-light">Los Angeles, CA | July 2021</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Created engaging digital content to increase brand awareness and engagement.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Designed a diagnostic neural electrode using AutoCAD, integrating principles from semiconductor 
+                        processing, lithography, and nanomaterial applications.
+                      </li>
+
+                      <li>
+                        Conducted electrochemical impedance spectroscopy (EIS) experiments to evaluate how varying pH levels 
+                        influence electrode impedance characteristics.
+                      </li>
+
+                      <li>
+                        Synthesized findings on neural electrode design and EIS results into a research poster, presenting 
+                        outcomes grounded in vacuum technologies, nanoparticle behavior, and cleanroom methodologies.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -160,13 +257,23 @@
             <!-- Experience 9 -->
             <div class="mb-10 experience-item" ref="expItem6">
               <div class="flex justify-between items-start mb-4">
-                <h3 class="text-xl font-semibold text-[#030303]">Web Developer at Auxiliors</h3>
-                <span class="text-sm text-[#030303] font-light">May 2021 - Aug 2022</span>
+                <h3 class="text-xl font-semibold text-[#030303]">
+                    CSU Fullerton Statistical and Data Science Research | Undergraduate Research</h3>
+                <span class="text-sm text-[#030303] font-light">Fullerton, CA | Jun 2019 - Aug 2019</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Lead sessions on self-confidence and worked on the website development
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Collected and validated international datasets on average puberty onset for males and females, ensuring 
+                        accurate cross-country comparisons.
+                      </li>
+
+                      <li>
+                        Collaborated with a partner to perform multiple logistic regression analyses, using RStudio to program, 
+                        visualize, and interpret statistical outcomes.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
@@ -177,15 +284,28 @@
             <div class="mb-10 experience-item" ref="expItem6">
               <div class="flex justify-between items-start mb-4">
                 <h3 class="text-xl font-semibold text-[#030303]">
-                  Web Developer at Sleep Deprived Dreamers
+                  NASA/CaSGC Microcomputer & and Robotics Internship 
                 </h3>
-                <span class="text-sm text-[#030303] font-light">Jun 2021 - Jul 2022</span>
+                <span class="text-sm text-[#030303] font-light">Los Angeles, CA | May 2019 - Aug 2019</span>
               </div>
 
-              <p class="text-[#030303] mb-6">
-                Got to work under my favorite youtuber to design and build a website for his
-                startup.
-              </p>
+              <ul class="text-[#030303] mb-6 list-disc pl-6">
+                      <li>
+                        Implemented core control functionality for the hot-wire CNC machine using an Arduino Uno, enabling 
+                        automated wire heating and motion control.
+                      </li>
+
+                      <li>
+                        Collaborated with a team to design the overall hot-wire cutting system, integrating mechanical, 
+                        electrical, and firmware components.
+                      </li>
+
+                      <li>
+                        Built the machine frame using plywood, utilizing electrical and hand tools to assemble a stable 
+                        structure for precision cutting.
+                      </li>
+              </ul>
+
 
               <div
                 class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"

@@ -1,6 +1,6 @@
-# portfolio
+# Reference
 
-## Live Demo
+I was working on my own portfolio when I saw Jyotsnav’s and it inspired me.
 [https://main--jyotsnav.netlify.app/](https://main--jyotsnav.netlify.app/)
 
 
@@ -10,12 +10,8 @@
 - JavaScript
 - Vite
 
-## Just for me:
-git add .
-git commit -m "Update message"
-git push
 
-# first time
+# Compiling and Building
 ## To install dependencies
 ```bash
 bun install
@@ -26,7 +22,7 @@ bun install
 bun run dev
 ```
 
-## To build (production)
+## To build 
 ```bash
 bun run build
 ```
@@ -34,13 +30,4 @@ bun run build
 ## To preview build
 ```bash
 bun run preview
-```
-
-
-
-## To run a local server
-
-```bash
-
-
 ```
