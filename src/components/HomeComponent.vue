@@ -108,6 +108,13 @@
         class="w-full h-auto object-contain sm:object-cover object-top z-0 mb-0"
         style="pointer-events: none"
       />
+      <img
+        src="/fading_bar.png"
+        alt="Hero background"
+        class="w-full h-auto object-contain sm:object-cover object-top z-0 mb-0"
+        style="pointer-events: none"
+      />
+      
     </div>
     <!-- No bottom padding -->
   </div>

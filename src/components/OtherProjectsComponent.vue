@@ -114,22 +114,20 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
           <!-- Left top box -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/powehi.png" class="w-full h-full object-cover" alt="Powehi Project" />
+            <img src="/sobel_1.png" class="w-full h-full object-cover" alt="Powehi Project" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-xl font-bold mb-2">Powehi</h3>
+                <h3 class="text-xl font-bold mb-2">Computer Vision Multi Threading Sobel Filter</h3>
                 <p class="mb-4">
-                  Welcome to Powehi, an immersive web application where you explore the universe
-                  through stunning images captured by the James Webb Space Telescope. A project for
-                  the 2024 NASA Space Apps Challenge.
+                  This is a C++/OpenCV computer vision project that demonstrates an image and video processing pipeline culminating in a multi-threaded Sobel edge detection
                 </p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/jyotsna-venkatesan/Powehi"
+                    href="https://github.com/artorias961/Computer-Vision-Mutli-Threading-Sobel-Filter"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
                   >
