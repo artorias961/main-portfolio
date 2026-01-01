@@ -38,22 +38,43 @@ const isLoading = ref(true)
 const preloadImages = () => {
   // List of key images to preload
   const imagesToPreload = [
-    '/bg-image.png',
-    '/jyotsna-image.jpg',
-    '/yuvoa.png',
-    '/vexos.png',
-    '/sporkify.png',
-    '/zzafari.png',
-    '/decodr.png',
-    '/powehi.png',
-    '/portfolio.png',
-    '/online-storage.png',
-    '/prequel.png',
-    '/music-from-image.png',
+    '/3D_Medical_Reconstruction_project.png',
+    '/bg_image_artorias961.png',
+    '/bg_image_chris.png',
+    '/bg_image_christopher.png',
+    '/chris-image-2.jpg',
+    '/chris-image-3.jpg',
+    '/chris-image.jpg',
+    '/dqn_snake_model.png',
+    '/escalation.png',
+    '/fading_bar.png',
+    '/favicon.ico',
+    '/heart.png',
+    '/Heated_Sonicator.png',
+    '/homelab.png',
+    '/landing-bg.png',
+    '/mechanical_keyboard.png',
+    '/mips32.png',
     '/Multiserver.png',
-    '/coderoad.png',
-    '/database-chatbot.png'
-  ]
+    '/network-visualizer.png',
+    '/opencv_retro_filter.png',
+    '/portfolio_finale.png',
+    '/portfolio_one.png',
+    '/portfolio_two.png',
+    '/purple-wave.png',
+    '/second-wave.png',
+    '/sidebg.png',
+    '/small icon 2.jpg',
+    '/smart_program_VR_AR_XR_tech.png',
+    '/sobel_1.png',
+    '/speech_to_text.png',
+    '/spin.png',
+    '/spinner.png',
+    '/third wave.png',
+    '/watch_dogs.png',
+    '/Websocket-REST-API-using-Python.png',
+    '/white_unified.png'
+  ];
   
   let loadedCount = 0
   const totalImages = imagesToPreload.length
