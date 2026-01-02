@@ -85,7 +85,7 @@
           <!-- Download Resume Button -->
           <div class="flex justify-end mb-8 mt-6 pr-2">
             <a
-              href="/Christopher_Morales_Resume.pdf"
+              href="/Christopher_Morales_Electrical_Engineer.pdf"
               download
               class="font-inter bg-[#E63104] hover:bg-[#e9484f] text-white py-2 px-6 rounded-md transition-colors duration-300 flex items-center shadow-md"
             >
